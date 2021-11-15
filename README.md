@@ -1,6 +1,5 @@
 I am Liu
-A student in computer science right now
-Trying to learning more about data
+A CS student
 :)
 
 
