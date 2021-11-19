@@ -1,5 +1,3 @@
-I am Liu
-A CS student
 :)
 
 
